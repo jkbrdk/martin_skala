@@ -1,0 +1,134 @@
+h1 {
+    text-transform: uppercase;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 60px;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+h4 {
+    text-transform: uppercase;
+    font-size: 23px;
+}
+
+p {
+    font-weight: 500;
+}
+
+#Top_bar .menu {
+    text-transform: uppercase;
+}
+
+.mcb_section_custom199 {
+    padding-top: 300px;
+}
+
+.mcb_section_custom206 {
+    padding-top: 70px;
+}
+
+.mcb_item_custom1214 .mcb-column-inner {
+    padding-bottom: 100px;
+}
+
+.pricing-box .plan-footer a {
+    margin: 50px 0 0 0;
+}
+
+.button-custom .button .button_label {
+    text-transform: uppercase;
+}
+
+#contactform #submit, #newsletterform input {
+    text-transform: uppercase;
+}
+
+@media (max-width: 1023px) {
+
+    h1 {
+        font-size: 45px;
+        line-height: 50px;
+        font-weight: 700;
+        letter-spacing: 0px;
+    }
+
+    h2 {
+        font-size: 40px;
+        line-height: 45px;
+        font-weight: 700;
+        letter-spacing: 0px;
+    }
+
+    h3 {
+        font-size: 25px;
+        line-height: 32px;
+        font-weight: 700;
+        letter-spacing: 0px;
+    }
+
+    h4 {
+        font-size: 18px;
+    }
+
+    #Top_bar {
+        padding: 30px 0 0 0;
+    }
+
+    .mcb_section_custom199 {
+        padding: 100px 0 50px 0;
+    }
+
+    .mcb_section_custom199 {
+        background-image: none;
+    }
+
+    .mcb_section_custom206 {
+        background-image: none;
+    }
+
+    .mcb_item_custom1214 .mcb-column-inner {
+        padding: 0 0 0 0;
+    }
+
+    .pricing-box .plan-header .price sup.period {
+        display: none;
+    }
+
+    .mcb_item_custom1246 .title, .mcb_item_custom1246 .title a {
+        font-size: 20px;
+    }
+
+    #Header .top_bar_left, .header-classic #Top_bar, .header-plain #Top_bar, .header-stack #Top_bar, .header-split #Top_bar, .header-shop #Top_bar, .header-shop-split #Top_bar, .header-fixed #Top_bar, .header-below #Top_bar, #Header_creative, #Top_bar #menu, .sticky-tb-color #Top_bar.is-sticky {
+        background-color: transparent;
+    }
+    
+}
+
+@media (min-width: 768px) {
+    .mcb_section_custom199 {
+        background-image: url(../images/personaltrainer3-section-bg1.webp);
+    }
+
+    .mcb_item_custom1208 .mfn-icon_box {
+        text-align: center;
+    }
+
+    .mcb_item_custom1209 .mfn-icon_box {
+        text-align: center;
+    }
+
+    .mcb_item_custom1210 .mfn-icon_box {
+        text-align: center;
+    }
+
+    .mcb_item_custom1211 .mfn-icon_box {
+        text-align: center;
+    }
+    
+}
